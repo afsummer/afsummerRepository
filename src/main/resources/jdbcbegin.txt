@@ -1,0 +1,8 @@
+urlSql
+jdbc:sqlserver://127.0.0.1:1433;DatabaseName=PhotoStudio
+userSql
+sa
+passwordSql
+xiaoxie120
+driverName
+com.microsoft.sqlserver.jdbc.SQLServerDriver
